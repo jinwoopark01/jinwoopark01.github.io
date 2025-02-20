@@ -154,4 +154,4 @@ awards:
 
 ## About Me
 
-Hi my name is Jinwoo Park!
+Hi, I am Jinwoo Park, a senior undergraduate at Seoul National University majoring in Statistics. My research interests include nonparametric inference, time series analysis, deep learning, and marketing, and I work under the guidance of [Byeong U. Park](https://sites.google.com/view/bupark).
